@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\cm-3c_cd_93_7a_83_9d\\Documents\\GitHub\\Computer-Programming-and-Practice-2025-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56298B6A-7BCC-4AD5-857C-3AE51B8CA9FA}|Project-Print-Char.vcxproj|C:\\Users\\cm-3c_cd_93_7a_83_9d\\Documents\\GitHub\\Computer-Programming-and-Practice-2025-1\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{56298B6A-7BCC-4AD5-857C-3AE51B8CA9FA}|Project-Print-Char.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\cm-3c_cd_93_7a_83_9d\\Documents\\GitHub\\Computer-Programming-and-Practice-2025-1\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\cm-3c_cd_93_7a_83_9d\\Documents\\GitHub\\Computer-Programming-and-Practice-2025-1\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-03-21T05:40:38.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
